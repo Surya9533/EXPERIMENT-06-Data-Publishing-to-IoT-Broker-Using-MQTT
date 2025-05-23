@@ -88,8 +88,10 @@ print(f"Message '{message}' published to topic '{topic}'")
 
 ```
 
- ## Simulation Screenshots:
+## Output
 ![image](https://github.com/user-attachments/assets/d7a3073d-5bcf-45ae-8967-b7b8e302c44d)
+
+## Simulation Screenshots:
 ![image](https://github.com/user-attachments/assets/ab6b1c65-5fed-44ed-a0e5-79b2d6ba8fd4)
 ![image](https://github.com/user-attachments/assets/09f0dfce-44cc-44de-8cc3-b8fa6e63a4e2)
 
